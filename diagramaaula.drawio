@@ -183,6 +183,106 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Va_KPJ9g8Q24RDRJVLzr-9" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="60" width="490" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="Va_KPJ9g8Q24RDRJVLzr-10" value="Reserva do quarto" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="70" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Va_KPJ9g8Q24RDRJVLzr-11" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Va_KPJ9g8Q24RDRJVLzr-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Va_KPJ9g8Q24RDRJVLzr-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="210" as="sourcePoint" />
+            <mxPoint x="220" y="160.00289855072475" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Va_KPJ9g8Q24RDRJVLzr-13" value="Avaliar o hotel" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="110.0028985507247" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Va_KPJ9g8Q24RDRJVLzr-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Va_KPJ9g8Q24RDRJVLzr-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="240" as="sourcePoint" />
+            <mxPoint x="260" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Va_KPJ9g8Q24RDRJVLzr-16" value="Fazer reserva" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Va_KPJ9g8Q24RDRJVLzr-17" value="Recepicionista" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="200" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Va_KPJ9g8Q24RDRJVLzr-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="Va_KPJ9g8Q24RDRJVLzr-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="240" as="sourcePoint" />
+            <mxPoint x="670" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Va_KPJ9g8Q24RDRJVLzr-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Va_KPJ9g8Q24RDRJVLzr-17" target="Va_KPJ9g8Q24RDRJVLzr-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="310" as="sourcePoint" />
+            <mxPoint x="580" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Va_KPJ9g8Q24RDRJVLzr-21" value="Gerenciar a disponibilidade dos quartos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-8IbWuukN9KEZxjo7qyS-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-8IbWuukN9KEZxjo7qyS-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="300" as="sourcePoint" />
+            <mxPoint x="350" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8IbWuukN9KEZxjo7qyS-2" value="Pagar a diária" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-8IbWuukN9KEZxjo7qyS-3" value="Banco&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="440" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-8IbWuukN9KEZxjo7qyS-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-8IbWuukN9KEZxjo7qyS-3" target="-8IbWuukN9KEZxjo7qyS-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="470" as="sourcePoint" />
+            <mxPoint x="190" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8IbWuukN9KEZxjo7qyS-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-8IbWuukN9KEZxjo7qyS-2" target="-8IbWuukN9KEZxjo7qyS-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="400" as="sourcePoint" />
+            <mxPoint x="339.5" y="470" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8IbWuukN9KEZxjo7qyS-6" value="Revisar pagamento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="495" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-8IbWuukN9KEZxjo7qyS-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-8IbWuukN9KEZxjo7qyS-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="540" as="sourcePoint" />
+            <mxPoint x="180" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8IbWuukN9KEZxjo7qyS-8" value="Aprovar pagamento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-8IbWuukN9KEZxjo7qyS-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="-8IbWuukN9KEZxjo7qyS-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="650" as="sourcePoint" />
+            <mxPoint x="360" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8IbWuukN9KEZxjo7qyS-10" value="Ir ao quarto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-8IbWuukN9KEZxjo7qyS-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-8IbWuukN9KEZxjo7qyS-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="260" as="sourcePoint" />
+            <mxPoint x="170" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-8IbWuukN9KEZxjo7qyS-14" value="Depois disso" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
